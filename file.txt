@@ -1,4 +1,4 @@
--fixing bug
+add function_1
 hello git first
 second: branch1
 third: branch1
