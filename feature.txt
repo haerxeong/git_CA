@@ -1,15 +1,4 @@
-<<<<<<< HEAD
 2
-<<<<<<< HEAD
 3
-=======
 2-1
 2-2
->>>>>>> re
-=======
-aaaaaaaa
-bbbbbbbb
-editing in squash branch
-editing in main brnach
-editing in squash branch2
->>>>>>> squash
