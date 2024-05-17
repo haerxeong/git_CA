@@ -1,6 +1,3 @@
 Hello_1
-<<<<<<< HEAD
 Hello_2
-=======
 Tell Your World
->>>>>>> hotfix1
